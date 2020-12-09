@@ -286,4 +286,12 @@ box-3{
 .contact-me{
     width:100%;
     height: 280px;
+    background-image: url(/Personal\ image.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
+
