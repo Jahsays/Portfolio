@@ -295,3 +295,10 @@ box-3{
     align-items: center;
 }
 
+.contact-me{
+    color: #ffffff;
+    font-size: 30px;
+    font-family: calbri;
+    font-weight: bold;
+    border-bottom: 2px solid #ffffff;
+}
