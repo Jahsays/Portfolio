@@ -302,3 +302,13 @@ box-3{
     font-weight: bold;
     border-bottom: 2px solid #ffffff;
 }
+
+.contact-me button{
+    width: 200px;
+    height: 40px;
+    background-color: #ffffff;
+    outline: none;
+    border: none;
+    font-size: 14px;
+    font-weight: bold;
+}
